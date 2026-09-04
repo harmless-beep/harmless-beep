@@ -28,7 +28,6 @@
 
 ```yaml
 name:        harmless-beep
-role:        Full-stack developer & open-source builder
 location:    Building from the cloud ☁️
 focus:
   - Web apps (React, FastAPI, Node)
